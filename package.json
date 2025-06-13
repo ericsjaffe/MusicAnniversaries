@@ -17,7 +17,7 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
     "typescript": "^5.2.2",
-    "@tailwindcss/typography": "^0.5.9", // or latest version
+    "@tailwindcss/typography": "^0.5.9" // or latest version
 
   }
 }
